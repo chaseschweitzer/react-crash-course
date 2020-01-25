@@ -1,0 +1,13 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.board {
+  background: #efefef;
+  border: 10px solid #333;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+}
