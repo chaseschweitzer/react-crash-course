@@ -63,3 +63,5 @@ typings/
 .idea
 
 .cache
+
+.DS_Store
